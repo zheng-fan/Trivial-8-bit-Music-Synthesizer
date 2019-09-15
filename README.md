@@ -5,7 +5,7 @@ This is an 8-bit music synthesizer including C++ and JavaScript version without 
 * Wav audio format encoder
 * Using pulse, triangle and noise waveform to get 8-bit style music
 * The JavaScript version can be used on web
-* Using FamiTracker's text sheet music format
+* Using FamiTracker's text sheet music format (not all features are supported)
 
 # Usage
 
